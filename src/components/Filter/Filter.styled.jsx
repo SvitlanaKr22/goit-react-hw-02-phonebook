@@ -29,8 +29,9 @@ export const Field = styled(FormikFild)`
 export const Label = styled.label`
   display: flex;
   flex-direction: column;
-  width: 50%;
-  margin-left: 20px;
+  width: 30%;
+  margin-left: 25px;
   font-weight: 700;
   font-size: 1.6rem;
+  color: #6a666b;
 `;

@@ -5,7 +5,7 @@ import { ErrorMessage as FormikError } from 'formik';
 
 export const Form = styled(FormikForm)`
   margin-left: 20px;
-  width: 50%;
+  width: 30%;
   padding: 8px;
   border: 1px solid #2a2a2a;
   border-radius: 0.25rem;
@@ -60,7 +60,7 @@ export const Button = styled.button`
   padding: 0.5em 1em;
   color: #ffffff;
   background-color: #9555af;
-  width: 30%;
+  width: 50%;
 
   &:active {
     transform: translateY(1px);
